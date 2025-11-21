@@ -1,0 +1,5 @@
+AI_CURRICULUM/
+__pycache__/
+*.pyc
+*.whl
+wget-log
