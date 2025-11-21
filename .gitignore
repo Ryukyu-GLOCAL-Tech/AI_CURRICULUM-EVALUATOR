@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 *.whl
 wget-log
+.env
+.env.*
